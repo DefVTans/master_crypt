@@ -1,5 +1,5 @@
 return {
-  version = "1.11",
+  version = "1.10",
   luaversion = "5.1",
   tiledversion = "1.11.2",
   class = "",
@@ -10,7 +10,7 @@ return {
   tilewidth = 40,
   tileheight = 40,
   nextlayerid = 10,
-  nextobjectid = 31,
+  nextobjectid = 32,
   properties = {},
   tilesets = {
     {
@@ -295,6 +295,19 @@ return {
             ["map"] = "School_exterior",
             ["marker"] = "entry_from_bunker"
           }
+        },
+        {
+          id = 31,
+          name = "squeak",
+          type = "",
+          shape = "rectangle",
+          x = 320,
+          y = 800,
+          width = 160,
+          height = 40,
+          rotation = 0,
+          visible = true,
+          properties = {}
         }
       }
     },

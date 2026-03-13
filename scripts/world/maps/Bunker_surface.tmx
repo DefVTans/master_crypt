@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.11" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="16" height="26" tilewidth="40" tileheight="40" infinite="0" nextlayerid="10" nextobjectid="31">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="16" height="26" tilewidth="40" tileheight="40" infinite="0" nextlayerid="10" nextobjectid="32">
  <editorsettings>
   <export target="Bunker_surface.lua" format="lua"/>
  </editorsettings>
@@ -143,6 +143,7 @@
     <property name="marker" value="entry_from_bunker"/>
    </properties>
   </object>
+  <object id="31" name="squeak" x="320" y="800" width="160" height="40"/>
  </objectgroup>
  <objectgroup color="#0000ff" id="3" name="collision">
   <object id="2" x="0" y="1040" width="640" height="40"/>
