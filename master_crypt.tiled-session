@@ -1,0 +1,195 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "scripts/world",
+        "scripts/world/tilesets",
+        "scripts/world/maps"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "scripts/world/maps/Apartments.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 291.3333333333333,
+                "y": 380.66666666666663
+            }
+        },
+        "scripts/world/maps/Bunker_surface.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3,
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 309.5,
+                "y": 688.5
+            }
+        },
+        "scripts/world/maps/Church_exterior.tmx": {
+            "expandedObjectLayers": [
+                6,
+                2,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 495.5,
+                "y": 139.5
+            }
+        },
+        "scripts/world/maps/Festival_pathway.tmx": {
+            "expandedObjectLayers": [
+                5,
+                3,
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 396.5,
+                "y": 338.5
+            }
+        },
+        "scripts/world/maps/Graveyard.tmx": {
+            "expandedObjectLayers": [
+                5,
+                3,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 472.66666666666663,
+                "y": 488.66666666666663
+            }
+        },
+        "scripts/world/maps/Home_exterior.tmx": {
+            "expandedObjectLayers": [
+                6,
+                5,
+                4
+            ],
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 123,
+                "y": 559
+            }
+        },
+        "scripts/world/maps/Mayors_exterior.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3,
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 121.25,
+                "y": 470.75
+            }
+        },
+        "scripts/world/maps/Police_and_sans.tmx": {
+            "expandedObjectLayers": [
+                6,
+                5,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 700.6666666666667,
+                "y": 431.3333333333333
+            }
+        },
+        "scripts/world/maps/QCs_and_Asgore.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 448.66666666666663,
+                "y": 378
+            }
+        },
+        "scripts/world/maps/School_exterior.tmx": {
+            "expandedObjectLayers": [
+                5,
+                2,
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 287.3333333333333,
+                "y": 262
+            }
+        },
+        "scripts/world/tilesets/Hometown_exterior_objects.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "scripts/world/tilesets/Hometown_exterior_tiles.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "scripts/world/tilesets/Hometown_extrior_objects.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "scripts/world/tilesets/castle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Валерий/AppData/Roaming/LOVE/kristal/mods/master_crypt/scripts/world/maps",
+    "last.imagePath": "C:/Users/Валерий/AppData/Roaming/LOVE/kristal/mods/master_crypt/assets/sprites/tilesets",
+    "lastUsedTilesetExportFilter": "Lua files (*.lua)",
+    "map.height": 12,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 40,
+    "map.tileWidth": 40,
+    "map.width": 16,
+    "openFiles": [
+    ],
+    "project": "master_crypt.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "scripts/world/maps/Apartments.tmx",
+        "scripts/world/maps/Mayors_exterior.tmx",
+        "scripts/world/maps/School_exterior.tmx",
+        "scripts/world/maps/QCs_and_Asgore.tmx",
+        "scripts/world/maps/Festival_pathway.tmx",
+        "scripts/world/maps/Police_and_sans.tmx",
+        "scripts/world/maps/Church_exterior.tmx",
+        "scripts/world/maps/Graveyard.tmx",
+        "scripts/world/maps/Home_exterior.tmx",
+        "scripts/world/maps/Bunker_surface.tmx",
+        "scripts/world/tilesets/Hometown_exterior_tiles.tsx",
+        "scripts/world/tilesets/Hometown_exterior_objects.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 20,
+        "width": 20
+    }
+}
