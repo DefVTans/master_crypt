@@ -1,1 +1,2 @@
-a repository for Deltarune fangame
+a repository for Deltarune fangame.
+managed by DefVTans/ValDef/ValTans. For better or for worst.
