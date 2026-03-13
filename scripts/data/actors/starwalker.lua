@@ -4,7 +4,7 @@ function actor:init()
     super.init(self)
 
     -- Display name (optional)
-    self.name = "Starwalker"
+    self.name = "Starwalker_cool"
 
     -- Width and height for this actor, used to determine its center
     self.width = 37
@@ -45,4 +45,5 @@ function actor:init()
 end
 
 return actor
+
 
