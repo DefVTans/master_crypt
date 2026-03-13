@@ -1,5 +1,5 @@
 local actor, super = Class(Actor, "starwalker")
-
+-- Hello, people of git!
 function actor:init()
     super.init(self)
 
@@ -45,3 +45,4 @@ function actor:init()
 end
 
 return actor
+
