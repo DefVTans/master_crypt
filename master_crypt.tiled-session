@@ -3,38 +3,38 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "scripts/world/maps/Apartments.tmx",
     "expandedProjectPaths": [
-        "scripts/world",
         "scripts/world/tilesets",
+        "scripts/world",
         "scripts/world/maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "scripts/world/maps/Apartments.tmx": {
             "expandedObjectLayers": [
-                2,
+                4,
                 3,
-                4
+                2
             ],
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 291.3333333333333,
-                "y": 380.66666666666663
+                "x": 600.5,
+                "y": 239.5
             }
         },
         "scripts/world/maps/Bunker_surface.tmx": {
             "expandedObjectLayers": [
-                2,
+                4,
                 3,
-                4
+                2
             ],
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 309.5,
-                "y": 688.5
+                "x": 319.5,
+                "y": 520.5
             }
         },
         "scripts/world/maps/Church_exterior.tmx": {
@@ -168,10 +168,13 @@
     "map.tileWidth": 40,
     "map.width": 16,
     "openFiles": [
+        "scripts/world/maps/Apartments.tmx",
+        "scripts/world/maps/Bunker_surface.tmx"
     ],
     "project": "master_crypt.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "scripts/world/maps/Bunker_surface.tmx",
         "scripts/world/maps/Apartments.tmx",
         "scripts/world/maps/Mayors_exterior.tmx",
         "scripts/world/maps/School_exterior.tmx",
@@ -181,7 +184,6 @@
         "scripts/world/maps/Church_exterior.tmx",
         "scripts/world/maps/Graveyard.tmx",
         "scripts/world/maps/Home_exterior.tmx",
-        "scripts/world/maps/Bunker_surface.tmx",
         "scripts/world/tilesets/Hometown_exterior_tiles.tsx",
         "scripts/world/tilesets/Hometown_exterior_objects.tsx"
     ],
