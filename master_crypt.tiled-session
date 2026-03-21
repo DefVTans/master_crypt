@@ -13,21 +13,21 @@
     "fileStates": {
         "scripts/world/maps/Apartments.tmx": {
             "expandedObjectLayers": [
-                4,
                 3,
+                4,
                 2
             ],
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 600.5,
-                "y": 239.5
+                "x": 592.5,
+                "y": 437.5
             }
         },
         "scripts/world/maps/Bunker_surface.tmx": {
             "expandedObjectLayers": [
-                4,
                 3,
+                4,
                 2
             ],
             "scale": 1,
